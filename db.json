@@ -1,0 +1,15 @@
+{
+	"statusCode": "200",
+	"message": "successfully obtained data",
+	"success": true,
+	"data": [{
+		"borrowerTypeID": 1,
+		"borrowerTypeName": "Civil Servants",
+		"borrowerCode": "CVS",
+		"borrower": {
+			"minimumAmount": 0,
+			"maximumAmount": 20000,
+			"interestRate": 15
+		}
+	}]
+}
